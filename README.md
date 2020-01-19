@@ -6,9 +6,9 @@
 在手机上看体验更佳哟
 
 
-旅行：http://modogger.cn/project2/main/
+旅行测试：http://modogger.cn/project2/main/
 
-欧卡：https://momo.mogomiyou.com.cn/Rachel/main/index
+欧卡体验：https://momo.mogomiyou.com.cn/Rachel/main/index
 
 
-a bit of a bummer, but you have to login to wechat first to view them
+unfortunately wechat account is required to view 
